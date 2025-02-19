@@ -12,5 +12,6 @@
 <p>The image shows the top fie customers for various sales products. The second image shows the top five products that have highest sales</p>
 
 <h3>Coffee Sales- 3</h3>
+
 ![Image Alt](https://github.com/CynthiaBanjo/Coffee-Order-Sales/blob/9ad9ff509cec68804515066f823794a0115d4a84/Cofee%20Sales-%203.png)
 <p>This shows numbers of customers with loyalty card</p>
