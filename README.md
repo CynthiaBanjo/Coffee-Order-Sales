@@ -6,6 +6,7 @@
 <p>The first image is based on total sales by each country. The US can be seen to be the country with highest sales. The second image shows the total sales for different coffee types over the years.</p>
 
 <h3>Coffee Sales- 2</h3>
+
 ![Image Alt](https://github.com/CynthiaBanjo/Coffee-Order-Sales/blob/663b46a8863ab6679466e60c480208f382ceb539/Coffee%20Sales-%202.png)
 
 <p>The image shows the top fie customers for various sales products. The second image shows the top five products that have highest sales</p>
